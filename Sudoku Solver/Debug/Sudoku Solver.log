@@ -1,0 +1,4 @@
+﻿  SolvePuzzel.cpp
+C:\Users\C L\source\repos\Sudoku Solver\Sudoku Solver\SolvePuzzel.cpp(15,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\C L\source\repos\Sudoku Solver\Sudoku Solver\SolvePuzzel.cpp(33,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Sudoku Solver.vcxproj -> C:\Users\C L\source\repos\Sudoku Solver\Debug\Sudoku Solver.exe
